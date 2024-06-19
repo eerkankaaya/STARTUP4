@@ -1,0 +1,8 @@
+C:\Users\eerka\source\repos\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\eerka\source\repos\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\eerka\source\repos\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\eerka\source\repos\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\eerka\source\repos\Methods\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\eerka\source\repos\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\eerka\source\repos\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\eerka\source\repos\Methods\Methods\obj\Debug\Methods.pdb
